@@ -40,4 +40,4 @@ Open the notebook in Google Colab with a GPU runtime. Put your dataset in Google
 - [realtime-clinical-scribe](https://github.com/yashsinghswe/realtime-clinical-scribe): the live consultation app that serves this model.
 
 ## Author
-**Yash Singh** · GenAI Engineer · [LinkedIn](https://linkedin.com/in/yashsinghswe)
+**Yash Singh** · AI Engineer · [LinkedIn](https://linkedin.com/in/yashsinghswe)
